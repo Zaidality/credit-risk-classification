@@ -10,4 +10,4 @@ Credit Risk Analysis Report
 
 The analysis report is below which shows the Models used, Results and the Summary of findings.
 
-Report: [report-template.md](https://github.com/Zaidality/credit-risk-classification/files/11582844/report-template.md)
+Report: [report-template.md](!https://github.com/Zaidality/credit-risk-classification/files/11582844/report-template.md)
